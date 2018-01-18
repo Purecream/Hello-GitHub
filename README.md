@@ -2,5 +2,5 @@
 This is my first project on GitHub.
 
 
-English reading difficultie.
+English reading difficulties.
 
